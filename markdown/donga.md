@@ -11,7 +11,7 @@
 My github page is available [here] (https://github.com/JeonChaeHwan/oss)
 
 # Image
-![동아대학교 로고] (https://wwwold.donga.ac.kr/Web2017/Sub/001004001_2021_symbol.jpg)
+![동아대학교 로고](https://wwwold.donga.ac.kr/Web2017/Sub/001004001_2021_symbol.jpg)
 
 # Blockquotes
 1. "The computer was born to solve problems that did not exists before."
