@@ -12,7 +12,7 @@ My github page is available [here] (https://github.com/JeonChaeHwan/oss)
 
 # Image
 ![동아대학교 로고](https://postfiles.pstatic.net/20160428_11/ohminho_1461803883530TEh4n_JPEG/%B1%B3%C0%B0%2C%B4%EB%C7%D0%2C%C7%D0%B1%B3%B5%BF%BE%C6%B4%EB%C7%D0%B1%B3%B7%CE%B0%ED.jpg?type=w3)
-https://wwwold.donga.ac.kr/Web2017/Sub/001004001_2021_symbol.jpg
+
 # Blockquotes
 1. "The computer was born to solve problems that did not exists before."
 > Bill Gates, Microsoft founder and former CEO, philanthropist
